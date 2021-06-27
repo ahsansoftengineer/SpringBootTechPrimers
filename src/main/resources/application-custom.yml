@@ -1,0 +1,4 @@
+spring:
+  message: Hello from Application Custom yml
+server:
+  port: 5050

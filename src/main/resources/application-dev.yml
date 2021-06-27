@@ -1,0 +1,4 @@
+spring:
+  message: Hello from Application dev yml
+server:
+  port: 6060

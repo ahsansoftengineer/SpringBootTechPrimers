@@ -1,0 +1,4 @@
+spring:
+  message: Hello from Application Prod yml
+server:
+  port: 7070
