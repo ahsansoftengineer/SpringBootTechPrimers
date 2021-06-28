@@ -1,4 +1,4 @@
-package com.springboot.TechPrimers;
+package com.springboot.techprimerz;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

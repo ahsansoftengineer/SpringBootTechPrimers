@@ -1,9 +1,9 @@
-package com.springboot.TechPrimers.a_profiles;
+package com.springboot.techprimerz.a_profiles;
 
 import org.springframework.beans.factory.annotation.Value;
 import org.springframework.web.bind.annotation.*;
 
-@RestController
+//@RestController
 @RequestMapping("/profiles")
 public class ProfilesSettings {
 
