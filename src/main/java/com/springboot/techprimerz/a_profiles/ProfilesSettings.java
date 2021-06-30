@@ -17,4 +17,5 @@ public class ProfilesSettings {
     public String message(){
         return "Hello " + applicationMessage + " Port " + port;
     }
+
 }
